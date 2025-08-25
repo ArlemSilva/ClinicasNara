@@ -1,0 +1,101 @@
+id_clinica,nome,cidade,capacidade_diaria
+1,Bem Viver,Curitiba,73
+2,Clínica Vital,São Paulo,78
+3,Clínica Vital,Curitiba,37
+4,Bem Viver,Belo Horizonte,76
+5,Clínica São Lucas,Curitiba,92
+6,Clínica Vital,Recife,25
+7,Clínica Horizonte,Rio de Janeiro,75
+8,Vida Plena,Belo Horizonte,48
+9,Clínica Nova Vida,Brasília,69
+10,Clínica Horizonte,Salvador,61
+11,Clínica Vital,Belo Horizonte,58
+12,Clínica Horizonte,Manaus,94
+13,Bem Viver,Fortaleza,75
+14,Clínica Esperança,Manaus,50
+15,Clínica Horizonte,São Paulo,76
+16,Clínica São Lucas,Manaus,33
+17,Clínica Esperança,Belo Horizonte,43
+18,Vida Plena,Fortaleza,20
+19,Clínica Nova Vida,Recife,42
+20,Clínica Vital,Salvador,100
+21,Clínica Renova,Manaus,38
+22,Clínica Esperança,Belo Horizonte,81
+23,Clínica Horizonte,Fortaleza,32
+24,Clínica Bem Estar,Manaus,86
+25,Clínica Horizonte,Manaus,86
+26,Clínica Renova,Porto Alegre,71
+27,Clínica Renova,Porto Alegre,98
+28,Clínica Nova Vida,Porto Alegre,25
+29,Bem Viver,Salvador,78
+30,Clínica Esperança,Recife,69
+31,Saúde Total,Recife,81
+32,Bem Viver,Rio de Janeiro,41
+33,Clínica São Lucas,Curitiba,96
+34,Clínica Vital,Belo Horizonte,42
+35,Saúde Total,Belo Horizonte,87
+36,Bem Viver,Curitiba,42
+37,Clínica Renova,Porto Alegre,25
+38,Clínica Nova Vida,Manaus,59
+39,Clínica São Lucas,Salvador,83
+40,Clínica Vital,Recife,51
+41,Clínica Vital,Rio de Janeiro,50
+42,Vida Plena,Rio de Janeiro,37
+43,Clínica Esperança,Manaus,94
+44,Bem Viver,Belo Horizonte,53
+45,Clínica São Lucas,Manaus,98
+46,Clínica Renova,Recife,25
+47,Clínica Esperança,Recife,57
+48,Clínica Horizonte,Recife,30
+49,Saúde Total,Manaus,20
+50,Clínica Renova,Recife,58
+51,Clínica Horizonte,Brasília,77
+52,Clínica Renova,Recife,47
+53,Clínica Bem Estar,Manaus,61
+54,Clínica Esperança,Salvador,89
+55,Clínica Renova,Recife,39
+56,Clínica Renova,Rio de Janeiro,32
+57,Clínica Horizonte,Porto Alegre,40
+58,Clínica São Lucas,Fortaleza,37
+59,Saúde Total,Recife,47
+60,Clínica São Lucas,Fortaleza,80
+61,Clínica Vital,Salvador,78
+62,Clínica Bem Estar,Belo Horizonte,65
+63,Clínica Horizonte,Brasília,28
+64,Clínica Esperança,Rio de Janeiro,72
+65,Clínica Horizonte,São Paulo,58
+66,Clínica Vital,São Paulo,26
+67,Clínica Vital,Manaus,72
+68,Clínica Bem Estar,Recife,72
+69,Clínica Horizonte,São Paulo,29
+70,Clínica Esperança,Salvador,89
+71,Bem Viver,Belo Horizonte,50
+72,Bem Viver,Brasília,74
+73,Bem Viver,Belo Horizonte,54
+74,Vida Plena,Salvador,65
+75,Clínica Vital,Curitiba,35
+76,Saúde Total,Curitiba,60
+77,Vida Plena,Fortaleza,42
+78,Clínica Horizonte,Rio de Janeiro,50
+79,Saúde Total,Brasília,97
+80,Clínica Nova Vida,Curitiba,97
+81,Vida Plena,Porto Alegre,86
+82,Clínica Esperança,Curitiba,46
+83,Saúde Total,Porto Alegre,69
+84,Clínica Vital,Porto Alegre,63
+85,Clínica Nova Vida,São Paulo,20
+86,Bem Viver,Rio de Janeiro,42
+87,Bem Viver,Belo Horizonte,21
+88,Clínica Nova Vida,Salvador,88
+89,Clínica Bem Estar,Manaus,36
+90,Clínica Nova Vida,São Paulo,40
+91,Clínica Vital,Rio de Janeiro,83
+92,Clínica Nova Vida,Curitiba,30
+93,Clínica Horizonte,Belo Horizonte,54
+94,Clínica Bem Estar,Porto Alegre,53
+95,Saúde Total,Salvador,81
+96,Clínica Esperança,Belo Horizonte,78
+97,Clínica Esperança,Brasília,54
+98,Clínica Horizonte,Rio de Janeiro,27
+99,Bem Viver,Salvador,71
+100,Clínica Esperança,Manaus,40

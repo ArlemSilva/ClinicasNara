@@ -1,0 +1,101 @@
+id_paciente,idade,sexo,cidade,plano_saude
+1,21,M,Manaus,Sim
+2,15,M,Brasília,Sim
+3,86,M,Salvador,Não
+4,87,M,Manaus,Sim
+5,56,M,Porto Alegre,Não
+6,64,F,Brasília,Sim
+7,70,M,Rio de Janeiro,Não
+8,86,F,Brasília,Não
+9,88,F,Brasília,Não
+10,56,M,Porto Alegre,Não
+11,12,F,Manaus,Sim
+12,3,F,Curitiba,Não
+13,75,M,Porto Alegre,Sim
+14,83,F,Curitiba,Não
+15,69,M,Brasília,Não
+16,60,F,Salvador,Não
+17,51,F,Belo Horizonte,Sim
+18,79,F,Rio de Janeiro,Não
+19,36,M,Salvador,Não
+20,7,M,Belo Horizonte,Não
+21,3,M,Brasília,Não
+22,14,F,Salvador,Não
+23,58,M,Fortaleza,Não
+24,69,M,Belo Horizonte,Não
+25,4,F,Manaus,Não
+26,50,M,Porto Alegre,Não
+27,36,M,Rio de Janeiro,Não
+28,4,M,Porto Alegre,Não
+29,28,M,Brasília,Sim
+30,70,F,Salvador,Não
+31,46,F,Belo Horizonte,Sim
+32,58,M,Curitiba,Não
+33,82,F,Porto Alegre,Sim
+34,65,F,Fortaleza,Sim
+35,40,F,Brasília,Não
+36,64,F,Rio de Janeiro,Sim
+37,56,F,Porto Alegre,Sim
+38,66,M,Rio de Janeiro,Sim
+39,34,M,Fortaleza,Não
+40,10,M,Curitiba,Sim
+41,78,M,Fortaleza,Não
+42,1,F,Brasília,Sim
+43,36,F,Curitiba,Não
+44,23,F,Brasília,Não
+45,89,M,Fortaleza,Sim
+46,30,F,Rio de Janeiro,Sim
+47,17,F,Curitiba,Não
+48,28,M,Brasília,Não
+49,19,M,Salvador,Não
+50,2,M,Manaus,Sim
+51,81,M,Fortaleza,Sim
+52,38,F,Manaus,Sim
+53,32,F,Brasília,Sim
+54,46,F,Belo Horizonte,Sim
+55,15,F,Brasília,Não
+56,42,F,São Paulo,Não
+57,45,F,Recife,Não
+58,25,M,Brasília,Sim
+59,32,F,Recife,Sim
+60,81,F,Belo Horizonte,Sim
+61,58,M,Curitiba,Não
+62,30,M,Brasília,Não
+63,24,F,Manaus,Sim
+64,80,F,Brasília,Sim
+65,67,F,Salvador,Não
+66,53,F,Belo Horizonte,Não
+67,24,F,Recife,Sim
+68,84,M,Rio de Janeiro,Sim
+69,14,M,Porto Alegre,Sim
+70,51,M,Manaus,Sim
+71,29,F,Curitiba,Não
+72,34,F,Rio de Janeiro,Sim
+73,61,M,Fortaleza,Não
+74,33,M,São Paulo,Sim
+75,14,F,Recife,Não
+76,19,M,Fortaleza,Sim
+77,87,M,Brasília,Sim
+78,7,M,Manaus,Sim
+79,47,F,Porto Alegre,Não
+80,56,M,Salvador,Sim
+81,57,M,Belo Horizonte,Não
+82,21,M,Salvador,Não
+83,14,M,Rio de Janeiro,Sim
+84,68,M,Curitiba,Não
+85,64,F,São Paulo,Não
+86,5,M,Belo Horizonte,Sim
+87,45,F,Curitiba,Não
+88,67,F,Fortaleza,Sim
+89,53,M,Porto Alegre,Não
+90,83,F,Curitiba,Não
+91,80,M,Manaus,Não
+92,60,F,Porto Alegre,Não
+93,63,M,Recife,Não
+94,7,M,Salvador,Sim
+95,62,M,Fortaleza,Sim
+96,47,M,Recife,Sim
+97,12,F,Manaus,Não
+98,64,M,Fortaleza,Sim
+99,28,M,Rio de Janeiro,Não
+100,4,F,Porto Alegre,Não
